@@ -14,12 +14,6 @@ Explore temperature and rain trends in the Portland, Oregon region using data fr
 
 This Tableau project analyzes temperature and rainfall trends in the Portland, Oregon region. The dataset, sourced from the National Oceanic and Atmospheric Administration (NOAA), covers weather data between 1939 to 2023. Gain insights into local weather trends over the decades utilizing SQL and Tableau.  
 
-## Getting Started
-
-To explore the project, visit the Tableau Public dashboard:
-
-[Tableau Public - Portland Weather Dashboard](https://public.tableau.com/app/profile/edison.gold/viz/PDX_WeatherData/Dashboard1)
-
 ## Data Sources
 
 The project relies on data from the National Oceanic and Atmospheric Administration (NOAA). The raw weather data in CSV format can be found in the `data` directory:
@@ -31,7 +25,7 @@ The project relies on data from the National Oceanic and Atmospheric Administrat
 
 The Tableau Public dashboard provides a user-friendly interface to interact with the weather data. Key visualizations include temperature trends, rainfall trends, and other relevant insights.
 
-![Tableau Public Dashboard](/images/tableau_public_dashboard.png)
+[Tableau Public - Portland Weather Dashboard](https://public.tableau.com/app/profile/edison.gold/viz/PDX_WeatherData/Dashboard1)
 
 ## License
 
