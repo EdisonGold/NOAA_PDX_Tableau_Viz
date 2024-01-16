@@ -6,7 +6,7 @@ Explore temperature and rain trends in the Portland, Oregon region using data fr
 
 - [About](#about)
 - [Data Sources](#data-sources)
-- [SQL Queries](#SQL Queries)
+- [SQL Queries](#sql-queries)
 - [Tableau Public Dashboard](#tableau-public-dashboard)
 - [License](#license)
 
