@@ -35,7 +35,7 @@ The Tableau Public dashboard provides a user-friendly interface to interact with
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](/License).
 
 ---
 
