@@ -6,6 +6,7 @@ Explore temperature and rain trends in the Portland, Oregon region using data fr
 
 - [About](#about)
 - [Data Sources](#data-sources)
+- [SQL Queries](#SQL Queries)
 - [Tableau Public Dashboard](#tableau-public-dashboard)
 - [License](#license)
 
@@ -19,6 +20,12 @@ The project relies on data from the National Oceanic and Atmospheric Administrat
 
 - [Download Temperature CSV File](/data/pdx_temp_data.csv)
 - [Download Rainfall CSV File](/data/pdx_rainfall_data.csv)
+
+## SQL Queries 
+
+Utilized SQL to clean data obtained from NOAA and review seasonal (monthly and annual) trends in the form of sums and averages.   
+
+- [Queries](sql_queries/analysis_query1.sql)
 
 ## Tableau Public Dashboard
 
