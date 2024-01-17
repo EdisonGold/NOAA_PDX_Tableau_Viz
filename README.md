@@ -21,12 +21,12 @@ The project relies on data from the National Oceanic and Atmospheric Administrat
 - [Download Temperature CSV File](/data/pdx_temp_data.csv)
 - [Download Rainfall CSV File](/data/pdx_rainfall_data.csv)
 
-## SQL Queries 
+## SQL Queries
 
-Utilized SQL to clean data obtained from NOAA and review seasonal (monthly and annual) trends in the form of sums and averages.   
+Explore the SQL queries used in the project:
 
-- [Data Cleaning Queries](/SQL%20Queries/noaa_PDX_Data_Clean.sql)
-- [Data Analysis Queries](/SQL%20Queries/NOAA_PDX_Analysis.sql)
+- [Data Cleaning Queries](./SQL%20Queries/NOAA_PDX_Data_Clean.sql)
+- [Data Analysis Queries](./SQL%20Queries/NOAA_PDX_Analysis.sql)
 
 ## Tableau Public Dashboard
 
