@@ -4,7 +4,7 @@ Objective: Find temperature or precipitation trends for use in Tableau.
 2. Analyze monthly and annual averages and sums.
 */
 
-/* Adding a new column for grouping by decade */
+/* Adding a new column for grouping by vicennial (20yr) groupings */
 USE Weather;
 
 ALTER TABLE noaa_pdx
