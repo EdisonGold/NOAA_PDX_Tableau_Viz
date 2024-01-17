@@ -32,7 +32,6 @@ Explore the SQL queries used in the project:
 
 The Tableau Public dashboard provides a user-friendly interface to interact with the weather data. Key visualizations include temperature trends, rainfall trends, and other relevant insights.
 
-[Tableau Public - Portland Weather Dashboard](https://public.tableau.com/app/profile/edison.gold/viz/PDX_WeatherData/Dashboard1)
 [![NOAA PDX Tableau Viz](https://github.com/EdisonGold/NOAA_PDX_Tableau_Viz/raw/main/sample-image.png)](https://public.tableau.com/app/profile/edison.gold/viz/PDX_WeatherData/Dashboard1)
 
 ## License
