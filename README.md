@@ -25,7 +25,8 @@ The project relies on data from the National Oceanic and Atmospheric Administrat
 
 Utilized SQL to clean data obtained from NOAA and review seasonal (monthly and annual) trends in the form of sums and averages.   
 
-- [Queries](sql_queries/analysis_query1.sql)
+- [Data Cleaning Queries](/SQL Queries/NOAA_PDX_Data_Clean.sql)
+- [Data Analysis Queries](/SQL Queries/NOAA_PDX_Analysis.sql)
 
 ## Tableau Public Dashboard
 
